@@ -1,6 +1,6 @@
 # AI-Based Credit Risk Scoring System
 
-This project deploys a credit risk assessment engine to automate the model in order to substitute manual bottlenecks in underwriting with on-the-fly and data-driven scoring. With the help of machine learning models that have been trained on the German Credit Dataset, the system is able to categorize loan applicants into three risk groups: Low, Medium, and High. 
+This project deploys a credit risk assessment engine to automate the model in order to substitute manual bottlenecks in underwriting with on-the-fly and data-driven scoring. With the help of machine learning models that have been trained on the German Credit Dataset, the system is able to categorize loan applicants into three risk groups: Low, Medium, and High.
 
 # Project Overview
 The scoring of traditional credit is based on a few variables and manual reviews that are slow, inconsistent and can be subject to human error. This system employs ensemble learning to recognize intricate patterns among many variables, including credit history, employment length, and loan purpose, at rates and with consistency that are orders of magnitude higher than manual methods. 
