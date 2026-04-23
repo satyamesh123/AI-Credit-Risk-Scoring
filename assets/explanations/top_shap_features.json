@@ -1,0 +1,104 @@
+{
+  "features": [
+    {
+      "feature": "Credit Amount",
+      "raw_feature": "credit_amount",
+      "mean_abs_shap": 2.310312032699585
+    },
+    {
+      "feature": "Housing Own",
+      "raw_feature": "housing_own",
+      "mean_abs_shap": 1.2352961301803589
+    },
+    {
+      "feature": "Duration",
+      "raw_feature": "duration",
+      "mean_abs_shap": 1.0990039110183716
+    },
+    {
+      "feature": "Age",
+      "raw_feature": "age",
+      "mean_abs_shap": 0.9887549877166748
+    },
+    {
+      "feature": "Checking Moderate",
+      "raw_feature": "checking_account_moderate",
+      "mean_abs_shap": 0.920187771320343
+    },
+    {
+      "feature": "Purpose Car",
+      "raw_feature": "purpose_car",
+      "mean_abs_shap": 0.8766909241676331
+    },
+    {
+      "feature": "Job Unskilled And Resident",
+      "raw_feature": "job_unskilled and resident",
+      "mean_abs_shap": 0.8754802942276001
+    },
+    {
+      "feature": "Saving Little",
+      "raw_feature": "saving_accounts_little",
+      "mean_abs_shap": 0.6967284083366394
+    },
+    {
+      "feature": "Purpose Radio/Tv",
+      "raw_feature": "purpose_radio/TV",
+      "mean_abs_shap": 0.5518290996551514
+    },
+    {
+      "feature": "Job Skilled",
+      "raw_feature": "job_skilled",
+      "mean_abs_shap": 0.530123233795166
+    },
+    {
+      "feature": "Purpose Furniture/Equipment",
+      "raw_feature": "purpose_furniture/equipment",
+      "mean_abs_shap": 0.339484840631485
+    },
+    {
+      "feature": "Checking Little",
+      "raw_feature": "checking_account_little",
+      "mean_abs_shap": 0.3243383765220642
+    },
+    {
+      "feature": "Saving Unknown",
+      "raw_feature": "saving_accounts_Unknown",
+      "mean_abs_shap": 0.29487505555152893
+    },
+    {
+      "feature": "Checking Rich",
+      "raw_feature": "checking_account_rich",
+      "mean_abs_shap": 0.2883594334125519
+    },
+    {
+      "feature": "Purpose Business",
+      "raw_feature": "purpose_business",
+      "mean_abs_shap": 0.19388344883918762
+    },
+    {
+      "feature": "Checking Unknown",
+      "raw_feature": "checking_account_Unknown",
+      "mean_abs_shap": 0.18170370161533356
+    },
+    {
+      "feature": "Purpose Education",
+      "raw_feature": "purpose_education",
+      "mean_abs_shap": 0.18052083253860474
+    },
+    {
+      "feature": "Saving Moderate",
+      "raw_feature": "saving_accounts_moderate",
+      "mean_abs_shap": 0.17363187670707703
+    },
+    {
+      "feature": "Job Highly Skilled",
+      "raw_feature": "job_highly skilled",
+      "mean_abs_shap": 0.16680105030536652
+    },
+    {
+      "feature": "Housing Rent",
+      "raw_feature": "housing_rent",
+      "mean_abs_shap": 0.10978066921234131
+    }
+  ]
+}

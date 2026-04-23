@@ -1,0 +1,41 @@
+{
+  "dataset_rows": 1000,
+  "threshold": 4,
+  "risky_share": 0.412,
+  "class_balance": {
+    "0": 588,
+    "1": 412
+  },
+  "minority_share": 0.412,
+  "null_count": 0,
+  "risk_score_distribution": {
+    "2": 221,
+    "5": 104,
+    "4": 199,
+    "6": 58,
+    "8": 16,
+    "1": 96,
+    "7": 33,
+    "3": 265,
+    "0": 6,
+    "9": 2
+  },
+  "feature_ranges": {
+    "age": {
+      "min": 19,
+      "max": 75,
+      "median": 33.0
+    },
+    "credit_amount": {
+      "min": 250,
+      "max": 18424,
+      "median": 2319.5
+    },
+    "duration": {
+      "min": 4,
+      "max": 72,
+      "median": 18.0
+    }
+  },
+  "note": "The risk target is synthetic and derived from explicit underwriting-style rules."
+}
