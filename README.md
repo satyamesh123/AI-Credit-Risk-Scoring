@@ -44,3 +44,6 @@ The machine learning pipeline of the project is structured:
  1.Explainability: SHAP values can be integrated to provide explanations on the reasons behind certain risk factors to loan officers. 
  2.Alternative Data: The use of utility payments or e-commerce history with applicants who do not have formal credit history. 
  3.Real-time API: Shifting to real-time scoring API to be directly integrated with loan origination systems. 
+
+# Website for live demo
+https://creditrscoring.streamlit.app/
